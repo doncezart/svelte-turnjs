@@ -1,0 +1,39 @@
+{
+  "name": "svelte-turnjs",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  },
+  "description": "Integration of turn.js into Svelte 5",
+  "main": "turn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doncezart/svelte-turnjs.git"
+  },
+  "keywords": [
+    "svelte",
+    "svelte",
+    "5",
+    "turnjs",
+    "turn.js",
+    "book",
+    "flip",
+    "page",
+    "flip",
+    "turn",
+    "page",
+    "page",
+    "turn",
+    "book",
+    "turn"
+  ],
+  "author": "Don Cezar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doncezart/svelte-turnjs/issues"
+  },
+  "homepage": "https://github.com/doncezart/svelte-turnjs#readme"
+}
