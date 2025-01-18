@@ -1,4 +1,4 @@
-<script>
+<script lang="js">
     import { onMount } from 'svelte'
   
     let { size, images } = $props()
@@ -6,7 +6,7 @@
     
     async function init() {
       const jQuery = (await import('jquery')).default
-      await import('turn.js')
+      await import('./turn.js')
       
       jQuery(bookElement).turn({
         width: size[0]*2,
